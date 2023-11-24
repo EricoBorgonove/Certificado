@@ -10,6 +10,7 @@ Equipe
 
 Equipe
 - Jonny Nunes Viana
+- Matheus de Souza Pereira
 - Diskson Alves
 - Gabriel Lopes
 - Felipe Lael
