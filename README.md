@@ -1,4 +1,4 @@
-Nome dos participantes
+<h1>Nome dos participantes</h1>
 
 Equipe
 - Alisson Nascimento de Oliveira
@@ -10,3 +10,4 @@ Equipe
 
 Equipe
 - Jonny Nunes Viana
+- Diskson Alves
