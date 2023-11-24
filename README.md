@@ -11,3 +11,5 @@ Equipe
 Equipe
 - Jonny Nunes Viana
 - Diskson Alves
+- Gabriel Lopes
+- Felipe Lael
